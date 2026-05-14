@@ -218,7 +218,6 @@ Canvas files are saved as `.canvas` and use an **open JSON format**. Claude must
   "label": "Group label"
 }
 ```
-
 ### Edge Schema
 
 ```json
